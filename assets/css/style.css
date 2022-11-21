@@ -1,0 +1,22 @@
+.container-cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.card{
+    text-align: center;
+    margin: 15px;
+    box-shadow: 0 4px 16px rgb(0 0 0 / 25%);
+}
+h3{
+    font-size: 18px;
+    padding-top: 10px;
+    color: #975C8D;
+    text-decoration:underline;
+}
+
+
